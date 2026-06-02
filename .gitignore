@@ -1,0 +1,12 @@
+# Ignore video and image assets that are not needed in Git history
+*.mp4
+*.jpg
+*.jpeg
+*.png
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# VS Code workspace settings
+.vscode/
